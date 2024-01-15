@@ -1,10 +1,4 @@
-<?php
 
-/*
-
-// For loop
-
-for ($i=0 ;$i<3 ;$i++){
 
 
 <!DOCTYPE html>
